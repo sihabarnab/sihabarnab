@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**sihabarnab/sihabarnab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sihab Hossain** — passionate about technology, development, and cybersecurity! 🔥
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a **Business Application Developer** at **Shahrier Enterprise**.
+- 🌱 I’m currently learning **React**, **TypeScript**, and deepening my skills in **Laravel** and **Cybersecurity**.
+- 👯 I’m looking to collaborate on **software development**, **customized business solutions**, and **security projects**.
+- 🤔 I’m looking for help with **mastering TypeScript/React and becoming an expert in secure application development**.
+- 💬 Ask me about **Laravel, React, APIs, software engineering, and cybersecurity**.
+- 📫 How to reach me: **sihabarnab123@gmail.com** or [LinkedIn](#your-linkedin-url).
+- 😄 Pronouns: **he/him**.
+- ⚡ Fun fact: **I believe great software is built with both heart ❤️ and logic 🧠!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+> “Stay hungry, stay foolish.” – Steve Jobs
