@@ -7,7 +7,7 @@ I'm **Sihab Hossain** — passionate about technology, development, and cybersec
 - 👯 I’m looking to collaborate on **software development**, **customized business solutions**, and **security projects**.
 - 🤔 I’m looking for help with **mastering TypeScript/React and becoming an expert in secure application development**.
 - 💬 Ask me about **Laravel, React, APIs, software engineering, and cybersecurity**.
-- 📫 How to reach me: **sihabarnab123@gmail.com** or [LinkedIn](#your-linkedin-url).
+- 📫 How to reach me: **sihabarnab123@gmail.com** or [Connect with me on LinkedIn](https://www.linkedin.com/in/sihab-hossain-135495244/).
 - 😄 Pronouns: **he/him**.
 - ⚡ Fun fact: **I believe great software is built with both heart ❤️ and logic 🧠!**
 
